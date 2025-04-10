@@ -1,6 +1,6 @@
 # api-integration-and-data-visualization
 
-**COMPANY**: CODTECH ID=T SOLUTIONS
+**COMPANY**: CODTECH IT SOLUTIONS
 
 **NAME**: PANKAJ RATHOD
 
